@@ -1,2 +1,52 @@
-[{
-}]
+{
+    "games": [{
+            "id": 1,
+            "title": "Zooba: Free-for-all G6Games",
+            "description": "Games",
+            "rate": 4.1,
+            "images": [{
+                "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
+                "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
+                "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
+            }],
+            "Category": "Action"
+        },
+        {
+            "id": 2,
+            "title": "Zooba: Free-for-all G6Games",
+            "description": "Games",
+            "rate": 4.1,
+            "images": [{
+                "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
+                "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
+                "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
+            }],
+            "Category": "Adventure"
+        },
+        {
+            "id": 3,
+            "title": "Zooba: Free-for-all G6Games",
+            "description": "Games",
+            "rate": 4.1,
+            "images": [{
+                "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
+                "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
+                "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
+            }],
+            "Category": "Action"
+        },
+        {
+            "id": 4,
+            "title": "Zooba: Free-for-all G6Games",
+            "description": "Games",
+            "rate": 4.1,
+            "images": [{
+                "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
+                "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
+                "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
+            }],
+            "Category": "Sports"
+        }
+    ]
+
+}
