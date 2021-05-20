@@ -9,8 +9,10 @@
                 "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
                 "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
             }],
-            "Category": "Action",
-            "Featured": true
+            "category": "Action",
+            "featured": true,
+            "classifier": ["most popular", "recommended"]
+
         },
         {
             "id": 2,
@@ -22,8 +24,10 @@
                 "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
                 "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
             }],
-            "Category": "Adventure",
-            "Featured": false
+            "category": "Adventure",
+            "featured": false,
+            "classifier": ["most popular", "recommended"]
+
         },
         {
             "id": 3,
@@ -35,8 +39,10 @@
                 "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
                 "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
             }],
-            "Category": "Action",
-            "Featured": false
+            "category": "Action",
+            "featured": false,
+            "classifier": ["most popular"]
+
         },
         {
             "id": 4,
@@ -48,8 +54,10 @@
                 "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
                 "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
             }],
-            "Category": "Sports",
-            "Featured": false
+            "category": "Sports",
+            "featured": false,
+            "classifier": ["recommended"]
+
         }
     ]
 
