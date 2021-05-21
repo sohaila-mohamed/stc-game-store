@@ -11,7 +11,7 @@
             },
             "category": "Action",
             "featured": true,
-            "classifier": ["most popular"]
+            "classifier": []
 
         },
         {
