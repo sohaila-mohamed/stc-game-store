@@ -1,7 +1,7 @@
 {
     "games": [{
             "id": 1,
-            "title": "Zooba: Free-for-all G6Games",
+            "title": "Subway Surfers",
             "description": "SURF the urban wave! DODGE the oncoming trains! GRIND trains with your cool… crew of friends! Run as far as you can on the endless train tracks with your friends Jake, Tricky & Fresh whilst attempting to escape from the Inspector and his fast paced dog… Read more",
             "rate": 4.1,
             "images": {
@@ -16,38 +16,69 @@
         },
         {
             "id": 2,
-            "title": "Zooba: Free-for-all G6Games",
-            "description": "Games",
+            "title": "Asphalt 9:",
+            "description": "Legends - Epic Car Action…",
             "rate": 4.1,
             "images": {
-                "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
-                "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
-                "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
+                "img1": "https://i.ibb.co/1MZ2m72/asphalt.png",
+                "img2": "https://i.ibb.co/FsrrTL4/asphalt-2x.png",
+                "img3": "https://i.ibb.co/kJj6stM/asphalt-3x.png"
             },
             "category": "Adventure",
             "featured": false,
-            "classifier": ["most popular", "recommended"]
+            "classifier": ["recommended"]
 
         },
         {
             "id": 3,
-            "title": "Zooba: Free-for-all G6Games",
-            "description": "Games",
+            "title": "Zooba",
+            "description": "Free-for-all G6Games",
             "rate": 4.1,
             "images": {
-                "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
-                "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
-                "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
+                "img1": "https://i.ibb.co/GtVG4ds/Zooba.png",
+                "img2": "https://i.ibb.co/NV1QbrZ/Zooba-2x.png",
+                "img3": "https://i.ibb.co/HdLtWjJ/Zooba-3x.png"
             },
             "category": "Action",
             "featured": false,
-            "classifier": ["most popular"]
+            "classifier": ["recommended"]
 
         },
         {
             "id": 4,
-            "title": "Zooba: Free-for-all G6Games",
-            "description": "Games",
+            "title": "Call of Duty®:",
+            "description": "Mobile Activision Publishing, In",
+            "rate": 4.1,
+            "images": {
+                "img1": "https://i.ibb.co/hWKFB0N/Bitmap.png",
+                "img2": "https://i.ibb.co/LYTxFjT/Bitmap-2x.png",
+                "img3": "https://i.ibb.co/b6fDP49/Bitmap-3x.png"
+            },
+            "category": "Sports",
+            "featured": false,
+            "classifier": ["recommended"]
+
+        },
+
+        {
+            "id": 5,
+            "title": "Cover Fire",
+            "description": " Shooting Games Free Genera Games",
+            "rate": 4.1,
+            "images": {
+                "img1": "https://i.ibb.co/R9CSmNd/Cover-Fire.png",
+                "img2": "https://i.ibb.co/MpJTgNx/Cover-Fire-2x.png",
+                "img3": "https://i.ibb.co/xLky59d/Cover-Fire-3x.png"
+            },
+            "category": "Sports",
+            "featured": false,
+            "classifier": ["recommended"]
+
+        },
+        {
+            "id": 6,
+            "title": "METAL MADNESS PvP ",
+            "description": "Car Shooter & Twisted Action GDCompany",
             "rate": 4.1,
             "images": {
                 "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
@@ -59,6 +90,7 @@
             "classifier": ["recommended"]
 
         }
+
     ]
 
 }
