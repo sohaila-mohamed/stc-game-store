@@ -4,11 +4,11 @@
             "title": "Zooba: Free-for-all G6Games",
             "description": "Games",
             "rate": 4.1,
-            "images": [{
+            "images": {
                 "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
                 "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
                 "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
-            }],
+            },
             "category": "Action",
             "featured": true,
             "classifier": ["most popular", "recommended"]
@@ -19,11 +19,11 @@
             "title": "Zooba: Free-for-all G6Games",
             "description": "Games",
             "rate": 4.1,
-            "images": [{
+            "images": {
                 "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
                 "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
                 "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
-            }],
+            },
             "category": "Adventure",
             "featured": false,
             "classifier": ["most popular", "recommended"]
@@ -34,11 +34,11 @@
             "title": "Zooba: Free-for-all G6Games",
             "description": "Games",
             "rate": 4.1,
-            "images": [{
+            "images": {
                 "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
                 "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
                 "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
-            }],
+            },
             "category": "Action",
             "featured": false,
             "classifier": ["most popular"]
@@ -49,11 +49,11 @@
             "title": "Zooba: Free-for-all G6Games",
             "description": "Games",
             "rate": 4.1,
-            "images": [{
+            "images": {
                 "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
                 "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
                 "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
-            }],
+            },
             "category": "Sports",
             "featured": false,
             "classifier": ["recommended"]
