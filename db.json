@@ -1,2 +1,64 @@
-[{
-}]
+{
+    "games": [{
+            "id": 1,
+            "title": "Zooba: Free-for-all G6Games",
+            "description": "SURF the urban wave! DODGE the oncoming trains! GRIND trains with your cool… crew of friends! Run as far as you can on the endless train tracks with your friends Jake, Tricky & Fresh whilst attempting to escape from the Inspector and his fast paced dog… Read more",
+            "rate": 4.1,
+            "images": {
+                "img1": "https://i.ibb.co/NyDJRK5/Subway.png",
+                "img2": "https://i.ibb.co/3YRVfXZ/Subway-2x.png",
+                "img3": "https://i.ibb.co/D5f2qQN/Subway-3x.png"
+            },
+            "category": "Action",
+            "featured": true,
+            "classifier": ["most popular", "recommended"]
+
+        },
+        {
+            "id": 2,
+            "title": "Zooba: Free-for-all G6Games",
+            "description": "Games",
+            "rate": 4.1,
+            "images": {
+                "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
+                "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
+                "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
+            },
+            "category": "Adventure",
+            "featured": false,
+            "classifier": ["most popular", "recommended"]
+
+        },
+        {
+            "id": 3,
+            "title": "Zooba: Free-for-all G6Games",
+            "description": "Games",
+            "rate": 4.1,
+            "images": {
+                "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
+                "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
+                "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
+            },
+            "category": "Action",
+            "featured": false,
+            "classifier": ["most popular"]
+
+        },
+        {
+            "id": 4,
+            "title": "Zooba: Free-for-all G6Games",
+            "description": "Games",
+            "rate": 4.1,
+            "images": {
+                "img1": "https://i.ibb.co/SyP5pBW/Metal-Madness.png",
+                "img2": "https://i.ibb.co/vxT5hHw/Metal-Madness-2x.png",
+                "img3": "https://i.ibb.co/pyydtYQ/Metal-Madness-3x.png"
+            },
+            "category": "Sports",
+            "featured": false,
+            "classifier": ["recommended"]
+
+        }
+    ]
+
+}
